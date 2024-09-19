@@ -99,8 +99,8 @@
         font-weight: 600;
     }
     .icon-check {
-        width: 16px;
-        height: 16px;
+        width: 16px!important;
+        height: 16px!important;
     }
 
     .container-title{
